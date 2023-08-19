@@ -1,3 +1,10 @@
+## Services linked
+
+- link to [Flights And Search Service](https://github.com/geeky-hypertext629/FlightsAndSearchService)
+- link to [Auth Service](https://github.com/geeky-hypertext629/AuthService/tree/master/AuthService)
+- link to [Booking Service](https://github.com/geeky-hypertext629/AirTicketBookingService/tree/master/BookingService)
+- link to [Reminder Service](https://github.com/geeky-hypertext629/ReminderService)
+
 FRONTEND - MIDDLE-END - BACKEND
 
 - We need an intermediate layer between the client side and microservices
